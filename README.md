@@ -1,9 +1,3 @@
-# Examen Final Visualización 
-Analiza el problema planteado en el notebook DAVD_Examen_final_2025_2026.ipynb. Hace referencia al csv meidcal_insurance.csv que tendrás que leer. Procede a entender el planteamiento del problema. Después procede a volver a leer el README.md. Este contiene las visualizaciones que vamos a desarrollar para poder sacar el insight. No quiero que generes ninguna documentación dado que eso lo quiero hacer yo. Tu tarea es encargarte del código, de las visualizaciones y del modelo que haya que entrenar en base a mis indicaciones. Genera la solución en un Notebook aparte que se llama solucion_visualizacion.ipynb que tendrás que generar. 
-No quiero que utilices librerías que no estén presentes en Librerias.md a menos que sea estrictamente necesario. 
-Procede a hacer un código robusto y minimalista, no te excedas en documenationes. 
-
-
 
 
 
