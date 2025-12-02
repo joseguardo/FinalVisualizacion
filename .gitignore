@@ -1,0 +1,46 @@
+# Entornos virtuales
+venv/
+env/
+ENV/
+.venv/
+
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Claude Code
+.claude/
+
+# Archivos del sistema macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Datos y archivos grandes (descomenta si no quieres versionar)
+# *.csv
+# *.xlsx
+# *.xls
+# *.db
+# *.sqlite
+
+# Exámenes y notas
+examenes_pasados/
+.LIBRERIAS.md
+
+# Archivos de configuración local
+.env
+.env.local
+*.log
